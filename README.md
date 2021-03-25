@@ -31,7 +31,7 @@ Siga os passos abaixo!
 > pkg install nodejs
 > pkg install npm
 > git clone https://github.com/BigBraim/BigBraimBOT.git
-> cd BigBraim
+> cd BigBraimBOT
 > bash install.sh
 ```
 
