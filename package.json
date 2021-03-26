@@ -40,10 +40,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BigBraim/BigBraimBOT.git"
+    "url": "git+https://github.com/BigBraim/BigBraim.git"
   },
   "bugs": {
-    "url": "https://github.com/BigBraim/BigBraimBOT.git"
+    "url": "https://github.com/BigBraim/BigBraim.git"
   },
-  "homepage": "https://github.com/BigBraim/BigBraimBOT#readme"
+  "homepage": "https://github.com/BigBraim/BigBraim#readme"
 }
