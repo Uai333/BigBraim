@@ -5,7 +5,7 @@ const help = (prefix) => {
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
   ❏ Criador : Brayan
-  ❏ Como instalar o BOT: www.youtube.com/channel/UCI15ahRyhf_cssUSPXgF0Mw
+  ❏ Como instalar o BOT: https://youtu.be/M4fPhiIqhzA
 
 ◪ *SOBRE*
   │
